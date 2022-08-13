@@ -81,6 +81,3 @@ a:link, a:visited {
     font-weight: bold;
     text-decoration: none;
 }
-td+td, th+th {
-    width: 50%;
-}
